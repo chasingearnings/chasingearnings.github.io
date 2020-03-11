@@ -2,6 +2,7 @@ Harrison Louis:
   name        : "Harrison Louis"
   bio         : "Cyber Security major, musician and self-improvement enthiusiast."
   avatar      : #"/assets/images/bio-photo.jpg"
+  location    : "Austin, Texas"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
